@@ -25,3 +25,12 @@
 
 ### TASK #4: Bayesian Linear Regression from scratch with BlackJAX 
    + Implementedan Bayesian Linear Regression in JAX library and created an sample dataset using BlackJAX. 
+
+
+## Citations
+ * [PDF of the Bivariate Normal Distribution.](https://www.statisticshowto.com/bivariate-normal-distribution/#:~:text=What%20is%20a%20Bivariate%20Normal,when%20both%20are%20added%20together.)
+ * [Standard Bivariate Normal Distribution](http://prob140.org/sp17/textbook/ch24/Standard_Bivariate_Normal_Distribution.html)
+ * [jax.random.multivariate_normal](https://jax.readthedocs.io/en/latest/_autosummary/jax.random.multivariate_normal.html)
+ * [Getting started with JAX (MLPs, CNNs & RNNs)](https://roberttlange.github.io/posts/2020/03/blog-post-10/)
+ * [Bayesian inference problem, MCMC and variational inference](https://towardsdatascience.com/bayesian-inference-problem-mcmc-and-variational-inference-25a8aa9bce29)
+ * [mnist_xgboost](https://www.kaggle.com/code/anktplwl91/mnist-xgboost/notebook)
